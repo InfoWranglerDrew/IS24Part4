@@ -1,0 +1,110 @@
+========== Starting test run ==========
+Start FizzBuzz_using_std_transform_OutputTest
+FizzBuzz_using_std_transform_OutputTest passed
+Start FizzBuzz_with_modulo_OutputTest
+FizzBuzz_with_modulo_OutputTest passed
+Start FizzBuzz_without_modulo_15_OutputTest
+Line 1 should be 1, but is FizzBuzz
+Line 2 should be 2, but is 1
+Line 3 should be Fizz, but is 2
+Line 4 should be 4, but is Fizz
+Line 5 should be Buzz, but is 4
+Line 6 should be Fizz, but is Buzz
+Line 7 should be 7, but is Fizz
+Line 8 should be 8, but is 7
+Line 9 should be Fizz, but is 8
+Line 10 should be Buzz, but is Fizz
+Line 11 should be 11, but is Buzz
+Line 12 should be Fizz, but is 11
+Line 13 should be 13, but is Fizz
+Line 14 should be 14, but is 13
+Line 15 should be FizzBuzz, but is 14
+Line 16 should be 16, but is FizzBuzz
+Line 17 should be 17, but is 16
+Line 18 should be Fizz, but is 17
+Line 19 should be 19, but is Fizz
+Line 20 should be Buzz, but is 19
+Line 21 should be Fizz, but is Buzz
+Line 22 should be 22, but is Fizz
+Line 23 should be 23, but is 22
+Line 24 should be Fizz, but is 23
+Line 25 should be Buzz, but is Fizz
+Line 26 should be 26, but is Buzz
+Line 27 should be Fizz, but is 26
+Line 28 should be 28, but is Fizz
+Line 29 should be 29, but is 28
+Line 30 should be FizzBuzz, but is 29
+Line 31 should be 31, but is FizzBuzz
+Line 32 should be 32, but is 31
+Line 33 should be Fizz, but is 32
+Line 34 should be 34, but is Fizz
+Line 35 should be Buzz, but is 34
+Line 36 should be Fizz, but is Buzz
+Line 37 should be 37, but is Fizz
+Line 38 should be 38, but is 37
+Line 39 should be Fizz, but is 38
+Line 40 should be Buzz, but is Fizz
+Line 41 should be 41, but is Buzz
+Line 42 should be Fizz, but is 41
+Line 43 should be 43, but is Fizz
+Line 44 should be 44, but is 43
+Line 45 should be FizzBuzz, but is 44
+Line 46 should be 46, but is FizzBuzz
+Line 47 should be 47, but is 46
+Line 48 should be Fizz, but is 47
+Line 49 should be 49, but is Fizz
+Line 50 should be Buzz, but is 49
+Line 51 should be Fizz, but is Buzz
+Line 52 should be 52, but is Fizz
+Line 53 should be 53, but is 52
+Line 54 should be Fizz, but is 53
+Line 55 should be Buzz, but is Fizz
+Line 56 should be 56, but is Buzz
+Line 57 should be Fizz, but is 56
+Line 58 should be 58, but is Fizz
+Line 59 should be 59, but is 58
+Line 60 should be FizzBuzz, but is 59
+Line 61 should be 61, but is FizzBuzz
+Line 62 should be 62, but is 61
+Line 63 should be Fizz, but is 62
+Line 64 should be 64, but is Fizz
+Line 65 should be Buzz, but is 64
+Line 66 should be Fizz, but is Buzz
+Line 67 should be 67, but is Fizz
+Line 68 should be 68, but is 67
+Line 69 should be Fizz, but is 68
+Line 70 should be Buzz, but is Fizz
+Line 71 should be 71, but is Buzz
+Line 72 should be Fizz, but is 71
+Line 73 should be 73, but is Fizz
+Line 74 should be 74, but is 73
+Line 75 should be FizzBuzz, but is 74
+Line 76 should be 76, but is FizzBuzz
+Line 77 should be 77, but is 76
+Line 78 should be Fizz, but is 77
+Line 79 should be 79, but is Fizz
+Line 80 should be Buzz, but is 79
+Line 81 should be Fizz, but is Buzz
+Line 82 should be 82, but is Fizz
+Line 83 should be 83, but is 82
+Line 84 should be Fizz, but is 83
+Line 85 should be Buzz, but is Fizz
+Line 86 should be 86, but is Buzz
+Line 87 should be Fizz, but is 86
+Line 88 should be 88, but is Fizz
+Line 89 should be 89, but is 88
+Line 90 should be FizzBuzz, but is 89
+Line 91 should be 91, but is FizzBuzz
+Line 92 should be 92, but is 91
+Line 93 should be Fizz, but is 92
+Line 94 should be 94, but is Fizz
+Line 95 should be Buzz, but is 94
+Line 96 should be Fizz, but is Buzz
+Line 97 should be 97, but is Fizz
+Line 98 should be 98, but is 97
+Line 99 should be Fizz, but is 98
+Line 100 should be Buzz, but is Fizz
+More than 100 lines found
+Start FizzBuzz_without_modulo_OutputTest
+FizzBuzz_without_modulo_OutputTest passed
+========== Test run finished: 4 Tests (3 Passed, 1 Failed, 0 Skipped) run in 820.8 ms ==========
